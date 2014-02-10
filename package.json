@@ -1,0 +1,16 @@
+{
+  "name": "followTruck",
+  "version": "0.0.0",
+  "description": "A twitter bot that follows food trucks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "twit": "~1.1.12",
+    "grunt": "~0.4.2",
+    "grunt-coffee": "0.0.6"
+  }
+}
